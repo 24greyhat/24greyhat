@@ -1,3 +1,8 @@
+<!-- Quantitative Finance Highlight -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Quantitative%20Finance-4ade80?style=for-the-badge&logo=quantconnect&logoColor=black"/>
+</p>
+
 <!-- Animated header using SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4ade80&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mohamed+Tah;Developer+%7C+Entrepreneur+%7C+Blogger;AI+%26+Data+Science+Undergrad" alt="Animated header" />
@@ -8,6 +13,7 @@
 - AI & Data Science Undergraduate
 - Entrepreneur
 - Blogger
+- Infosec
 
 ## 🛠️ Technical Skills
 
@@ -28,17 +34,9 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-14532d?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
   <img src="https://img.shields.io/badge/NumPy-14532d?style=for-the-badge&logo=numpy&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-14532d?style=for-the-badge&logo=figma&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Metasploit-14532d?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
-  <img src="https://img.shields.io/badge/Nmap-14532d?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
-  <img src="https://img.shields.io/badge/Ncat-14532d?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
-  <img src="https://img.shields.io/badge/Bash-14532d?style=for-the-badge&logo=gnubash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ARM64--Assembly-14532d?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
-  <img src="https://img.shields.io/badge/ARM32--Assembly-14532d?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
   <img src="https://img.shields.io/badge/CMake-14532d?style=for-the-badge&logo=cmake&logoColor=black"/>
   <img src="https://img.shields.io/badge/tmux-14532d?style=for-the-badge&logo=tmux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Burpsuite-14532d?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
   <img src="https://img.shields.io/badge/Neovim-14532d?style=for-the-badge&logo=neovim&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OSINT-14532d?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
 </p>
 
 ## 🔗 Social Links
