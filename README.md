@@ -1,7 +1,4 @@
-<!-- Quantitative Finance Highlight -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Quantitative%20Finance-4ade80?style=for-the-badge&logo=quantconnect&logoColor=black"/>
-</p>
+
 
 <!-- Animated header using SVG -->
 <p align="center">
