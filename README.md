@@ -9,8 +9,8 @@
 - Developer
 - AI & Data Science Undergraduate
 - Entrepreneur
-- Blogger
-- Infosec
+- Blogger (trying to be consistent)
+- Infosec background (did pen-200 and attempted GIAC GPEN with a 55% score at 15 years of age)
 
 ## 🛠️ Technical Skills
 
