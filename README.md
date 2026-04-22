@@ -1,10 +1,5 @@
 
 
-<!-- Animated header using SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4ade80&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mohamed+Tah;Developer+%7C+Entrepreneur+%7C+Blogger;AI+%26+Data+Science+Undergrad" alt="Animated header" />
-</p>
-
 ## 👨‍💻 Professions
 - Developer
 - AI & Data Science Undergraduate
