@@ -3,8 +3,7 @@
 ## 👨‍💻 Professions
 - Developer
 - AI & Data Science Undergraduate
-- Infosec background (did pen-200 and attempted GIAC GPEN with a 55% score at 15 years of age)
-
+- Infosec background (did pen-200)
 ## 🛠️ Technical Skills
 
 <p align="left">
